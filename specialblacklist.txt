@@ -6,3 +6,5 @@ Nulli
 ACG
 rampage
 scorpion
+ObscuredVoid
+Obscured
