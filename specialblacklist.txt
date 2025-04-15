@@ -8,3 +8,5 @@ rampage
 scorpion
 ObscuredVoid
 Obscured
+[TL]
+Tuliox
