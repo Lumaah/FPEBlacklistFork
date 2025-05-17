@@ -700,3 +700,24 @@ ratafea0111
 DOOM SLAYER
 REMJOS
 ZUZ MC1234USERMAN
+Object reference not set to an instance of an object.
+Value does not fall within the expected range.
+Arithmetic operation resulted in an overflow.
+Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+Value cannot be null.
+Method not found.
+Attempted to perform an unauthorized operation.
+Duplicate objects in argument.
+Attempted to divide by zero.
+Insufficient memory to continue the execution of the program.
+Overflow or underflow in the arithmetic operation.
+System error.
+Exception of type 'System.ApplicationException' was thrown.
+Field not found.
+Member not found.
+The operation has timed out.
+The method or operation is not implemented.
+Unable to load DLL.
+The number is not finite.
+Specified cast is not valid.
+Diablo201163
