@@ -721,3 +721,4 @@ Unable to load DLL.
 The number is not finite.
 Specified cast is not valid.
 Diablo201163
+Number encountered was not a finite quantity.
