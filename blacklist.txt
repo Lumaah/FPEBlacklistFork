@@ -722,3 +722,49 @@ The number is not finite.
 Specified cast is not valid.
 Diablo201163
 Number encountered was not a finite quantity.
+Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+Attempted to access an unloaded AppDomain.
+Overflow or underflow in the arithmetic operation.
+Attempted to access an element as a type incompatible with the array.
+An attempt was made to load a program with an incorrect format.
+Failed to unload the AppDomain.
+Attempted to marshal an object across a context boundary.
+A datatype misalignment was detected in a load or store instruction.
+Attempted to divide by zero.
+Unable to load DLL.
+Duplicate objects in argument.
+Entry point was not found.
+Exception of type 'System.Exception' was thrown.
+Cannot access field.
+Input string was not in a correct format.
+Index was outside the bounds of the array.
+Insufficient stack to continue executing the program safely.
+Insufficient memory to continue the execution of the program.
+Specified cast is not valid.
+Operation is not valid due to the current state of the object.
+Common Language Runtime detected an invalid program.
+Cannot access member.
+Cannot access method.
+Field not found.
+Attempted to access a missing member.
+Method not found.
+Delegate to an instance method cannot have more than one target.
+The number is not finite.
+The method or operation is not implemented.
+Specified method is not supported.
+Object reference not set to an instance of an object.
+Cannot access a disposed object.
+The operation was canceled.
+Exception of type 'System.OutOfMemoryException' was thrown.
+Arithmetic operation resulted in an overflow.
+Operation is not supported on this platform.
+Attempted to operate on an array with the incorrect number of dimensions.
+Exception of type 'System.StackOverflowException' was thrown.
+System error.
+The operation has timed out.
+Attempt to access the type failed.
+The type initializer for '<type>' threw an exception.
+Could not load type.
+Type '<type>' was unloaded.
+Attempted to perform an unauthorized operation.
+Operation could not be verified.
